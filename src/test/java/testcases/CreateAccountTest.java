@@ -14,6 +14,5 @@ public class CreateAccountTest extends BaseTest {
     public void createAccountTest(Hashtable<String, String> data) {
         new ZohoAppPage().goToCRM();
         Page.topMenu.gotoAccount().goToCreateAccount().AddAccountInfo(data.get("accountName"));
-        Assert.fail("Create Account test failed");
     }
 }

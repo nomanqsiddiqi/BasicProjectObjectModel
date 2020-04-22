@@ -13,6 +13,5 @@ public class LoginTest extends BaseTest{
         // This is login Test under the test cases folder
         HomePage homePage = new HomePage();
         homePage.goToLogin().doLogin(data.get("username"), data.get("password"));
-        Assert.fail("Login test failed");
     }
 }

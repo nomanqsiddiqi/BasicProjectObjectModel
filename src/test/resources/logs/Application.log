@@ -1,12 +1,12 @@
-21/04/2020 22:31:41 devpinoyLogger Config file loaded !!!!
-21/04/2020 22:31:41 devpinoyLogger OR file loaded !!!!
-21/04/2020 22:31:46 devpinoyLogger Chrome Launched !!!!
-21/04/2020 22:31:56 devpinoyLogger Clicking on an element: loginPage_XPATH
-21/04/2020 22:31:56 devpinoyLogger Typing in : username_XPATH entered value as bssatlantic.nbtctwo@gmail.com
-21/04/2020 22:31:56 devpinoyLogger Clicking on an element: nextbtn_XPATH
-21/04/2020 22:31:57 devpinoyLogger Typing in : password_CSS entered value as R0gers123
-21/04/2020 22:31:57 devpinoyLogger Clicking on an element: signin_XPATH
-21/04/2020 22:32:30 devpinoyLogger Clicking on an element: crmlink_XPATH
-21/04/2020 22:32:30 devpinoyLogger Clicking on an element: accountpage_XPATH
-21/04/2020 22:32:31 devpinoyLogger Clicking on an element: createaccount_CSS
-21/04/2020 22:32:32 devpinoyLogger Typing in : accountname_CSS entered value as Jacob
+22/04/2020 08:32:21 devpinoyLogger Config file loaded !!!!
+22/04/2020 08:32:21 devpinoyLogger OR file loaded !!!!
+22/04/2020 08:32:27 devpinoyLogger Chrome Launched !!!!
+22/04/2020 08:32:35 devpinoyLogger Clicking on an element: loginPage_XPATH
+22/04/2020 08:32:35 devpinoyLogger Typing in : username_XPATH entered value as bssatlantic.nbtctwo@gmail.com
+22/04/2020 08:32:35 devpinoyLogger Clicking on an element: nextbtn_XPATH
+22/04/2020 08:32:36 devpinoyLogger Typing in : password_CSS entered value as R0gers123
+22/04/2020 08:32:36 devpinoyLogger Clicking on an element: signin_XPATH
+22/04/2020 08:33:05 devpinoyLogger Clicking on an element: crmlink_XPATH
+22/04/2020 08:33:06 devpinoyLogger Clicking on an element: accountpage_XPATH
+22/04/2020 08:33:06 devpinoyLogger Clicking on an element: createaccount_CSS
+22/04/2020 08:33:07 devpinoyLogger Typing in : accountname_CSS entered value as Jacob
