@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 54.162 sec <<< FAILURE! - in TestSuite
+loginTest(testcases.LoginTest)  Time elapsed: 2.851 sec  <<< FAILURE!
+java.lang.AssertionError: Login test failed
+	at org.testng.Assert.fail(Assert.java:97)
+	at testcases.LoginTest.loginTest(LoginTest.java:16)
+

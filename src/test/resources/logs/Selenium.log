@@ -1,27 +1,27 @@
-08:32:21,824 DEBUG devpinoyLogger:54 - Config file loaded !!!!
-08:32:21,827 DEBUG devpinoyLogger:66 - OR file loaded !!!!
-08:32:27,413 DEBUG devpinoyLogger:98 - Chrome Launched !!!!
-08:32:35,701 DEBUG devpinoyLogger:120 - Clicking on an element: loginPage_XPATH
-08:32:35,880 DEBUG devpinoyLogger:133 - Typing in : username_XPATH entered value as bssatlantic.nbtctwo@gmail.com
-08:32:35,929 DEBUG devpinoyLogger:120 - Clicking on an element: nextbtn_XPATH
-08:32:36,233 DEBUG devpinoyLogger:133 - Typing in : password_CSS entered value as R0gers123
-08:32:36,296 DEBUG devpinoyLogger:120 - Clicking on an element: signin_XPATH
-08:32:43,804 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
-08:32:43,805 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
-08:32:43,806 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-08:32:43,807 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-08:32:43,807 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Noman%20Siddiqui/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-08:33:05,944 DEBUG devpinoyLogger:120 - Clicking on an element: crmlink_XPATH
-08:33:06,061 DEBUG devpinoyLogger:120 - Clicking on an element: accountpage_XPATH
-08:33:06,857 DEBUG devpinoyLogger:120 - Clicking on an element: createaccount_CSS
-08:33:07,661 DEBUG devpinoyLogger:133 - Typing in : accountname_CSS entered value as Jacob
-08:33:07,662 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
-08:33:07,663 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
-08:33:07,663 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-08:33:07,663 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-08:33:07,663 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Noman%20Siddiqui/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-08:33:13,918 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
-08:33:13,918 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
-08:33:13,918 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-08:33:13,918 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-08:33:13,918 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Noman%20Siddiqui/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:12:09,990 DEBUG devpinoyLogger:54 - Config file loaded !!!!
+09:12:09,993 DEBUG devpinoyLogger:66 - OR file loaded !!!!
+09:12:15,605 DEBUG devpinoyLogger:98 - Chrome Launched !!!!
+09:12:23,559 DEBUG devpinoyLogger:120 - Clicking on an element: loginPage_XPATH
+09:12:23,766 DEBUG devpinoyLogger:133 - Typing in : username_XPATH entered value as bssatlantic.nbtctwo@gmail.com
+09:12:23,813 DEBUG devpinoyLogger:120 - Clicking on an element: nextbtn_XPATH
+09:12:24,218 DEBUG devpinoyLogger:133 - Typing in : password_CSS entered value as R0gers123
+09:12:24,281 DEBUG devpinoyLogger:120 - Clicking on an element: signin_XPATH
+09:12:24,298 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+09:12:24,299 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+09:12:24,300 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:12:24,300 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:12:24,301 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Noman%20Siddiqui/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:12:45,740 DEBUG devpinoyLogger:120 - Clicking on an element: crmlink_XPATH
+09:12:45,963 DEBUG devpinoyLogger:120 - Clicking on an element: accountpage_XPATH
+09:12:46,802 DEBUG devpinoyLogger:120 - Clicking on an element: createaccount_CSS
+09:12:47,616 DEBUG devpinoyLogger:133 - Typing in : accountname_CSS entered value as Jacob
+09:12:47,618 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+09:12:47,619 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+09:12:47,619 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:12:47,620 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:12:47,620 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Noman%20Siddiqui/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:12:54,396 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+09:12:54,396 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+09:12:54,397 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:12:54,397 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:12:54,397 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Noman%20Siddiqui/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

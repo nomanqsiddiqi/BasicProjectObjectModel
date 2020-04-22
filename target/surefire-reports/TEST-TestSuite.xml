@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="20.199" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.4+10-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.4\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Noman Siddiqui\Desktop\PageObjectModel"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Noman Siddiqui\Desktop\PageObjectModel"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.4+10-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Noman Siddiqui\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\tools\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.4\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.4\bin;C:\Program Files\Java\jre1.8.0_221\bin;C:\tools\apache-ant-1.9.14\bin;C:\tools\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\tools\platform-tools;C:\Users\Noman Siddiqui\AppData\Local\Programs\Python\Python37-32;C:\tools\gradle-5.6.2\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\GitExtensions\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\Noman Siddiqui\AppData\Local\Microsoft\WindowsApps;C:\Users\Noman Siddiqui\AppData\Local\Programs\Azure Data Studio\bin;C:\Users\Noman Siddiqui\AppData\Local\GitHubDesktop\bin;C:\Users\Noman Siddiqui\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Noman Siddiqui\AppData\Local\atom\bin;C:\Users\Noman Siddiqui\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="maven.conf" value="C:\tools\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\tools\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Noman Siddiqui"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="Noman Siddiqui"/>
+    <property name="java.class.path" value="C:\tools\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.4"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.4"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="maven.home" value="C:\tools\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="loginTest" classname="testcases.LoginTest" time="2.851">
+    <failure message="Login test failed" type="java.lang.AssertionError">java.lang.AssertionError: Login test failed
+	at org.testng.Assert.fail(Assert.java:97)
+	at testcases.LoginTest.loginTest(LoginTest.java:16)
+</failure>
+    <system-out><![CDATA[loginTest
+Locator: username_XPATH ----  Value: bssatlantic.nbtctwo@gmail.com
+Locator: password_CSS ----  Value: R0gers123
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 26109
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1587558745.383][WARNING]: Timed out connecting to Chrome, retrying...
+Apr. 22, 2020 8:32:27 A.M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1587558748.106][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558748.208][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558748.525][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558748.641][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558748.756][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558748.871][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558748.977][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558751.180][WARNING]: Timed out connecting to Chrome, retrying...
+[1587558754.278][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558754.380][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558754.482][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558754.583][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558754.685][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558754.829][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558754.932][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558755.103][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558755.285][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558755.386][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558755.488][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558755.589][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587558755.690][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+  </testcase>
+  <testcase name="createAccountTest" classname="testcases.CreateAccountTest" time="17.348"/>
+</testsuite>
